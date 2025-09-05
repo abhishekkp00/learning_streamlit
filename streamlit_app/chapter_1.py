@@ -10,3 +10,4 @@ st.write(f"You selected: {colors}")
  
 
 st.success("Your color is added successfully!")
+
